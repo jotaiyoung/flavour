@@ -301,26 +301,32 @@
             <div class="info">
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
-                <h4>Location:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <h4>주소:</h4>
+                <p>경기도 파주시 가람로 116번지 107 832호</p>
               </div>
 
               <div class="email">
                 <i class="bi bi-envelope"></i>
                 <h4>Email:</h4>
-                <p>info@example.com</p>
+                <p>jtytt@naver.com</p>
               </div>
 
               <div class="phone">
                 <i class="bi bi-phone"></i>
-                <h4>Call:</h4>
-                <p>+1 5589 55488 55s</p>
+                <h4>소비자상담실:</h4>
+                <p>070-4193-2000</p>
               </div>
-
-              <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
-            </div>
-
-          </div>
+					
+						 <div class="map" style="height: 360px;">
+									<a href="https://map.kakao.com/?urlX=448590&amp;urlY=1175892&amp;itemId=1579615454&amp;q=%EC%9A%B4%EC%A0%95%ED%95%9C%EA%B0%95%EB%93%80%ED%81%B4%EB%9E%98%EC%8A%A4&amp;srcid=1579615454&amp;map_type=TYPE_MAP&amp;from=roughmap"
+										target="_blank"><img class="map"
+										src="http://t1.daumcdn.net/roughmap/imgmap/e47b048aa2295ccf2241005ca4db78193b3af31e6a47de2dcb8ed7c2db7d4f31"
+										width="490" height="308"
+										style="border: 1px solid rgb(204, 204, 204);"></a>
+								</div>
+					
+			</div>
+			</div>
 
           <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
             <form action="forms/contact.php" method="post" role="form" class="php-email-form">
