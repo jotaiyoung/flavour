@@ -198,7 +198,7 @@
           <h2>제품 상세 정보 </h2>
          
         </div>
-				<table class="tg">
+				<table class="tg table table-sm">
 					<thead>
 						<tr>
 							<th class="tg-xbtn">제품명</th>
@@ -316,14 +316,9 @@
                 <h4>소비자상담실:</h4>
                 <p>070-4193-2000</p>
               </div>
-					
-						 <div class="map" style="height: 360px;">
-									<a href="https://map.kakao.com/?urlX=448590&amp;urlY=1175892&amp;itemId=1579615454&amp;q=%EC%9A%B4%EC%A0%95%ED%95%9C%EA%B0%95%EB%93%80%ED%81%B4%EB%9E%98%EC%8A%A4&amp;srcid=1579615454&amp;map_type=TYPE_MAP&amp;from=roughmap"
-										target="_blank"><img class="map"
-										src="http://t1.daumcdn.net/roughmap/imgmap/e47b048aa2295ccf2241005ca4db78193b3af31e6a47de2dcb8ed7c2db7d4f31"
-										width="490" height="308"
-										style="border: 1px solid rgb(204, 204, 204);"></a>
-								</div>
+			  <div class="col-lg-6" >
+			  	<img class="img-fluid" src="http://t1.daumcdn.net/roughmap/imgmap/e47b048aa2295ccf2241005ca4db78193b3af31e6a47de2dcb8ed7c2db7d4f31"></a>
+			  </div>
 					
 			</div>
 			</div>
