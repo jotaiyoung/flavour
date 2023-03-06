@@ -59,7 +59,7 @@
               <li><a href="#">기브미 허그</a></li>              
               <li><a href="#">엑스트라 오디너리데이</a></li>
               <li><a href="#">버터플라이가든</a></li>
-              <li><a href="#">버터 앤 스위트메모리</a></li>
+              <li><a href="/tea/basm">버터 앤 스위트메모리</a></li>
               <li><a href="#">선물세트 4종제품</a></li>
             </ul>
           </li>
@@ -358,12 +358,11 @@
     </section><!-- End Contact Section -->
 
   </main><!-- End #main -->
-
   <!-- ======= Footer ======= -->
   <footer id="footer">
     <div class="container">
-      <h3>Green</h3>
-      <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi placeat.</p>
+      <h3>FLAVOUR712</h3>
+      
       <div class="social-links">
         <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
         <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
@@ -371,16 +370,7 @@
         <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
         <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
       </div>
-      <div class="copyright">
-        &copy; Copyright <strong><span>Green</span></strong>. All Rights Reserved
-      </div>
-      <div class="credits">
-        <!-- All the links in the footer should remain intact. -->
-        <!-- You can delete the links only if you purchased the pro version. -->
-        <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/green-free-one-page-bootstrap-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-      </div>
+      
     </div>
   </footer><!-- End Footer -->
 

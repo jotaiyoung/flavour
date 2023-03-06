@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Controller;
+use App\Http\Controllers\TeaController;
 
 /*
 |--------------------------------------------------------------------------
@@ -15,3 +16,8 @@ use App\Http\Controllers\Controller;
 */
 
 Route::get('/', [Controller::class, 'home']);
+
+Route::group (['prefix'=> 'tea'], function ()
+{
+   Route::get('{teaType}', 'TeaController@page'); 
+});
