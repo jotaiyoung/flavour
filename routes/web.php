@@ -19,5 +19,5 @@ Route::get('/', [Controller::class, 'home']);
 
 Route::group (['prefix'=> 'tea'], function ()
 {
-   Route::get('{teaType}', 'TeaController@page'); 
+   Route::get('{teaType}', 'App\Http\Controllers\TeaController@page'); 
 });

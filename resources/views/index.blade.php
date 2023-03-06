@@ -56,7 +56,7 @@
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
           <li class="dropdown"><a href="#"><span>블렝딩 과일차종류</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="#">기브미 허그</a></li>              
+              <li><a href="/tea/gh">기브미 허그</a></li>              
               <li><a href="#">엑스트라 오디너리데이</a></li>
               <li><a href="#">버터플라이가든</a></li>
               <li><a href="/tea/basm">버터 앤 스위트메모리</a></li>
@@ -137,7 +137,7 @@
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
             <h3>flavour 712의 과일베이스 블렌딩 티는</h3>
             <p class="fst-italic">
-              지금가지 경험해 보지 못한 매혹적인 맛과 향으로 당신의 감각을 자극합니다 </p>
+            	  지금가지 경험해 보지 못한 매혹적인 맛과 향으로 당신의 감각을 자극합니다 </p>
             <ul>
               <li><i class="bi bi-check-circled"></i> 늦은 시간에도 즐길 수 있는 카페인프리.</li>
               <li><i class="bi bi-check-circled"></i> 건강을 위해 충분한 물 섭취를 도와줄 수 있는 차.</li>

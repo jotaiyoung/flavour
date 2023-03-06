@@ -76,7 +76,7 @@
   </header><!-- End Header -->
 
   <!-- ======= Hero Section ======= -->
-  <section id="hero">
+  <section id="her">
     <div id="heroCarousel" data-bs-interval="5000" class="carousel slide carousel-fade" data-bs-ride="carousel">
 
       <ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
@@ -85,7 +85,8 @@
 
         <!-- Slide 1 -->
         <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-1.png)">
-          <div class="col-lg-6 order-1 order-lg-2">
+           </section><!-- End Hero -->
+         <div class="col-lg-6 order-1 order-lg-2">
             <img src="../image/ghpage.jpg" class="img-fluid" alt="">
           </div>
           <div class="carousel-container">
@@ -97,13 +98,13 @@
             </div>
           </div>
         </div>
-
+	
         
       </div>
-
+	
     </div>
-  </section><!-- End Hero -->
-
+   
+ 
   <main id="main">
 
   
@@ -112,21 +113,13 @@
     <section id="about" class="about">
       <div class="container">
 
-        <div class="section-title">
-          <h2>About Us</h2>          
-        </div>
-
+     
         <div class="row">
           <div class="col-lg-6 order-1 order-lg-2">
             <img src="image/1.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
-            <h3>flavour 712의 과일베이스 블렌딩 티는</h3>
-            <p class="fst-italic"> 지금가지 경험해 보지 못한 매혹적인 맛과 향으로 당신의 감각을 자극합니다 </p>
-            <ul>
-              <li><i class="bi bi-check-circled"></i> 늦은 시간에도 즐길 수 있는 카페인프리.</li>
-              <li><i class="bi bi-check-circled"></i> 건강을 위해 충분한 물 섭취를 도와줄 수 있는 차.</li>
-              <li><i class="bi bi-check-circled"></i> 풍부한 맋과 향을 담은 아로마 테라피 음료.</li>
+            
             </ul>            
           </div>
         </div>
