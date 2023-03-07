@@ -58,7 +58,7 @@
             <ul>
               <li><a href="/tea/gh">기브미 허그</a></li>              
               <li><a href="#">엑스트라 오디너리데이</a></li>
-              <li><a href="#">버터플라이가든</a></li>
+              <li><a href="/tea/bg">버터플라이가든</a></li>
               <li><a href="/tea/basm">버터 앤 스위트메모리</a></li>
               <li><a href="#">선물세트 4종제품</a></li>
             </ul>
