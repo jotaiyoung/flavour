@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+
 
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>flavour712x</title>
+  <title>flavour712</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -361,6 +361,7 @@
   <!-- ======= Footer ======= -->
   <footer id="footer">
     <div class="container">
+<<<<<<< Updated upstream
       <h3>FLAVOUR712</h3>
       
       <div class="social-links">
@@ -371,6 +372,16 @@
         <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
       </div>
       
+=======
+      <h3>flavour712</h3>
+      
+      <div class="copyright">
+        <strong><span><a>    </a></span></strong>
+      </div>
+      <div class="credits">
+        <a>사업자번호:67990202055</a>&nbsp;&nbsp;&nbsp;&nbsp;<a>상호명티지트레이드(개인사업자)</a>&nbsp;&nbsp;&nbsp;&nbsp;<a>TEL:070-4193-2000</a>
+      </div>
+>>>>>>> Stashed changes
     </div>
   </footer><!-- End Footer -->
 
