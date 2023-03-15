@@ -100,11 +100,11 @@
             <div class="portfolio-details-slider swiper">
               <div class="swiper-wrapper align-items-center">
 
-                <div class="swiper-slide ">
-                  <img src="../image/ghpage01.jpg" alt="">
+                <div class="swiper-slide">
+                  <img src="../image/eodpage01.jpg" alt="">
                 </div>
 
-                        
+                             
 
               </div>
               <div class="swiper-pagination"></div>
@@ -113,10 +113,11 @@
 
           <div class="col-lg-4">
             <div class="portfolio-info">
-              <h3>기브미 허그</h3>
+              <h3>엑스트라오디너리데이</h3>
               <ul>
-                <li><strong>품목보고번호</strong>: 20140086585565</li>
-                <li><strong>원재료명</strong>: 사과 60%, 아몬드 26%<br>시나몬 9%, 비트루트 4.5%<br>합성향료(아몬드)</li>
+                <li><strong>품목보고번호</strong>: 20140086585563</li>
+                <li><strong>원재료명</strong>: 사과 38%, 히비스커스 24.5%<br>로즈힙 20%, 파인애플큐브 10%<br>계피
+								5%, 해바라기꽃잎 2%<br>합성향료(배향)</li>
                 <li><strong>포장재질</strong>: 여과지-PLA / 개별포장지-폴리에틸렌 / 외부케이스 : 종</li>
                 <li><strong>원산지</strong>: 독일</li>
                 <li><strong>유통기한</strong>: 별도 표기일까지</li>
@@ -125,9 +126,9 @@
               </ul>
             </div>
             <div class="portfolio-description">
-              <h2>GIVE ME A HUG</h2>
+              <h2>EXTRA ORDINARY DAY</h2>
               <p>
-       			 유혹적인 향의 구운 아몬드와 은은하면서도 달달한 사과를 블렌딩한 묵직한 바디감의 차
+       			달콤한 배와 기품 있는 향의 시나몬을블렌딩한 새콤한 맛의 차
               </p>
             </div>
           </div>

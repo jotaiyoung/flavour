@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>flavour712x</title>
+  <title>flavour712</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -26,8 +26,6 @@
 
   <!-- Template Main CSS File -->
   <link href="../assets/css/style.css" rel="stylesheet">
-
- 
 </head>
 
 <body>
@@ -46,7 +44,7 @@
   <header id="header" class="d-flex align-items-center">
     <div class="container d-flex align-items-center">
 
-      <h1 class="logo me-auto"><a href="index.html">FLAVOUR712</a></h1>
+      <h1 class="logo me-auto"><a href="">FLAVOUR712</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -56,11 +54,11 @@
           <li><a class="nav-link scrollto active" href="../">Home</a></li>
           <li class="dropdown"><a href="#"><span>블렝딩 과일차종류</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="#">기브미 허그</a></li>              
-              <li><a href="#">엑스트라 오디너리데이</a></li>
-              <li><a href="#">버터플라이가든</a></li>
-              <li><a href="#">버터 앤 스위트메모리</a></li>
-              <li><a href="#">선물세트 4종제품</a></li>
+              <li><a href="/tea/gh">기브미 허그</a></li>              
+              <li><a href="/tea/eod">엑스트라 오디너리데이</a></li>
+              <li><a href="/tea/bg">버터플라이가든</a></li>
+              <li><a href="/tea/basm">버터 앤 스위트메모리</a></li>
+              
             </ul>
           </li>
           <li><a class="nav-link scrollto " href="#services">맛있게 마시는방법</a></li>
@@ -75,74 +73,76 @@
     </div>
   </header><!-- End Header -->
 
-  <!-- ======= Hero Section ======= -->
-  <section id="hero">
-    <div id="heroCarousel" data-bs-interval="5000" class="carousel slide carousel-fade" data-bs-ride="carousel">
-
-      <ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
-
-      <div class="carousel-inner" role="listbox">
-
-        <!-- Slide 1 -->
-        <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-1.png)">
-          <div class="col-lg-6 order-1 order-lg-2">
-            <img src="../image/ghpage.jpg" class="img-fluid" alt="">
-          </div>
-          <div class="carousel-container">
-            <div class="container">
-              <h2 class="bi bi-check-circled">기브미 어 허그</h2>
-              <h3 class="bi bi-check-circled">GIVE ME A HUG</h3>
-              <a class="bi bi-check-circled">유혹적인 향의 구운 아몬드와 은은하면서도 </a><br>
-              <a class="bi bi-check-circled">달달한 사과를 블렌딩한 묵직한 바디감의 차 </a>
-            </div>
-          </div>
-        </div>
-
-        
-      </div>
-
-    </div>
-  </section><!-- End Hero -->
 
   <main id="main">
 
-  
-
-    <!-- ======= About Us Section ======= -->
-    <section id="about" class="about">
+    <!-- ======= Breadcrumbs ======= -->
+    <section id="breadcrumbs" class="breadcrumbs">
       <div class="container">
 
-        <div class="section-title">
-          <h2>About Us</h2>          
-        </div>
-
-        <div class="row">
-          <div class="col-lg-6 order-1 order-lg-2">
-            <img src="image/1.jpg" class="img-fluid" alt="">
-          </div>
-          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
-            <h3>flavour 712의 과일베이스 블렌딩 티는</h3>
-            <p class="fst-italic"> 지금가지 경험해 보지 못한 매혹적인 맛과 향으로 당신의 감각을 자극합니다 </p>
-            <ul>
-              <li><i class="bi bi-check-circled"></i> 늦은 시간에도 즐길 수 있는 카페인프리.</li>
-              <li><i class="bi bi-check-circled"></i> 건강을 위해 충분한 물 섭취를 도와줄 수 있는 차.</li>
-              <li><i class="bi bi-check-circled"></i> 풍부한 맋과 향을 담은 아로마 테라피 음료.</li>
-            </ul>            
-          </div>
+        <div class="d-flex justify-content-between align-items-center">
+          <ol>
+            <li><a href="index.html">Home</a></li>
+            <li>Portfolio Details</li>
+          </ol>
         </div>
 
       </div>
-    </section><!-- End About Us Section -->
+    </section><!-- End Breadcrumbs -->
 
-   
+    <!-- ======= Portfolio Details Section ======= -->
+    <section id="portfolio-details" class="portfolio-details">
+      <div class="container">
 
-    
+        <div class="row gy-4">
+
+          <div class="col-lg-8">
+            <div class="portfolio-details-slider swiper">
+              <div class="swiper-wrapper align-items-center">
+
+                <div class="swiper-slide">
+                  <img src="../image/basm01.jpg" alt="">
+                </div>                       
+
+              </div>
+              <div class="swiper-pagination"></div>
+            </div>
+          </div>
+
+          <div class="col-lg-4">
+            <div class="portfolio-info">
+              <h3>버터 앤 스위트메모리</h3>
+              <ul>
+                <li><strong>품목보고번호</strong>: 20140086585564</li>
+                <li><strong>원재료명</strong>: 사과 67%, 히비스커스 9%<br>로즈힙 7.5%, 생강 5%, <br>후추
+								5%, 멜론큐브 4%<br>장비꽃잎 1%, 당귤열매껍질 1%<br>합성향료(복숭아)</li>
+                <li><strong>포장재질</strong>: 여과지-PLA / 개별포장지-폴리에틸렌 / 외부케이스 : 종</li>
+                <li><strong>원산지</strong>: 독일</li>
+                <li><strong>유통기한</strong>: 별도 표기일까지</li>
+                <li><strong>보관방법</strong>: 직산광선을 피하고 서늘한 실온에 보관하세요</li>
+                <li><strong>주의사항</strong>: 본 제품은 메밀, 땅콩, 대구, 밀, 새우, 조개류를 사용한 제품과 같은 시설에서 생산하고 있습니다</li>
+              </ul>
+            </div>
+            <div class="portfolio-description">
+              <h2>BITTER AND SWEET MEMORY</h2>
+              <p>
+       			강렬한 맛의 생각과 은은한 복숭아를 최적으로 블렌딩한 차
+              </p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Portfolio Details Section -->
+
+  </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
   <footer id="footer">
     <div class="container">
       <h3>FLAVOUR712</h3>
-      
+      <p>*유통과정 중 제품에 이상이 있을경우에는 공정거래위원회 고시 소비자 분쟁 해결기준에 의거 교롼 또는 보상을 받을수 있습니다<br>*부정불량식품 신고는 국번없이 1399</p>
       <div class="social-links">
         <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
         <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
@@ -150,21 +150,21 @@
         <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
         <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
       </div>
-      
+     
     </div>
   </footer><!-- End Footer -->
 
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
   <!-- Vendor JS Files -->
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="../assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="../assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="../assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="../assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="../assets/vendor/php-email-form/validate.js"></script>
 
   <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
+  <script src="../assets/js/main.js"></script>
 
 </body>
 

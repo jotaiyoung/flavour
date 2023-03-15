@@ -51,14 +51,14 @@
       <nav id="navbar" class="navbar">
       	<div id="unline"></div>
         <ul>          
-          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+          <li><a class="nav-link scrollto active" href="../">Home</a></li>
           <li class="dropdown"><a href="#"><span>블렝딩 과일차종류</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="/tea/gh">기브미 허그</a></li>              
-              <li><a href="#">엑스트라 오디너리데이</a></li>
+              <li><a href="/tea/eod">엑스트라 오디너리데이</a></li>
               <li><a href="/tea/bg">버터플라이가든</a></li>
               <li><a href="/tea/basm">버터 앤 스위트메모리</a></li>
-              <li><a href="#">선물세트 4종제품</a></li>
+              
             </ul>
           </li>
           <li><a class="nav-link scrollto " href="#services">맛있게 마시는방법</a></li>
