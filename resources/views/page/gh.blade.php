@@ -101,7 +101,10 @@
               <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide ">
-                  <img src="../image/ghpage01.jpg" alt="">
+                  <img style="width:100%; height: auto" src="../image/ghpage01.jpg" alt="">
+                </div>
+                <div class="swiper-slide ">
+                  <img style="width:100%; height: auto" src="../image/ghpage02.jpg" alt="">
                 </div>
 
                         

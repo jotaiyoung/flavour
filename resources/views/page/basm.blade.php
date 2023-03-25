@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" >
 
   <title>flavour712</title>
   <meta content="" name="description">
@@ -94,15 +94,18 @@
     <section id="portfolio-details" class="portfolio-details">
       <div class="container">
 
+		             
         <div class="row gy-4">
-
           <div class="col-lg-8">
             <div class="portfolio-details-slider swiper">
               <div class="swiper-wrapper align-items-center">
-
-                <div class="swiper-slide">
-                  <img src="../image/basm01.jpg" alt="">
-                </div>                       
+				<div  class="swiper-slide">
+                  <img style="width:100%; height: auto" src="../image/basm01.jpg" alt="">
+                </div>
+                <div  class="swiper-slide">
+                  <img style="width:100%; height: auto" src="../image/basm02.jpg" alt="">
+                </div>
+                                
 
               </div>
               <div class="swiper-pagination"></div>
