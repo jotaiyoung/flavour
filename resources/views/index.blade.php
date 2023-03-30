@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>flavour712x</title>
+  <title>flavour712</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -64,8 +64,7 @@
             </ul>
           </li>
           <li><a class="nav-link scrollto " href="#services">맛있게 마시는방법</a></li>
-          <li><a class="nav-link scrollto " href="#info">제품 상세 정보</a></li>
-          <li><a class="nav-link scrollto " href="#portfolio">문의하기</a></li>      
+          <li><a class="nav-link scrollto " href="#contact">문의하기</a></li>      
           
           
         </ul>

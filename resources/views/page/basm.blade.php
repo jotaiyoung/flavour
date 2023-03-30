@@ -44,14 +44,14 @@
   <header id="header" class="d-flex align-items-center">
     <div class="container d-flex align-items-center">
 
-      <h1 class="logo me-auto"><a href="">FLAVOUR712</a></h1>
+      <h1 class="logo me-auto"><a href="/">FLAVOUR712</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
       <nav id="navbar" class="navbar">
       	<div id="unline"></div>
         <ul>          
-          <li><a class="nav-link scrollto active" href="../">Home</a></li>
+          <li><a class="nav-link scrollto active" href="/">Home</a></li>
           <li class="dropdown"><a href="#"><span>블렝딩 과일차종류</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="/tea/gh">기브미 허그</a></li>              
@@ -61,9 +61,8 @@
               
             </ul>
           </li>
-          <li><a class="nav-link scrollto " href="#services">맛있게 마시는방법</a></li>
-          <li><a class="nav-link scrollto " href="#info">제품 상세 정보</a></li>
-          <li><a class="nav-link scrollto " href="#portfolio">문의하기</a></li>      
+          <li><a class="nav-link scrollto " href="/#services">맛있게 마시는방법</a></li>
+          <li><a class="nav-link scrollto " href="/#contact">문의하기</a></li>      
           
           
         </ul>
@@ -82,7 +81,7 @@
 
         <div class="d-flex justify-content-between align-items-center">
           <ol>
-            <li><a href="index.html">Home</a></li>
+            <li><a href="../">Home</a></li>
             <li>Portfolio Details</li>
           </ol>
         </div>
